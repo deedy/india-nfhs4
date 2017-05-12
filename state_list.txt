@@ -1,0 +1,33 @@
+AN,Andaman and Nicobar
+AP,Andhra Pradesh
+AR,Arunachal Pradesh
+AS,Assam
+BR,Bihar
+CT,Chhattisgarh
+DD,Daman and Diu
+DL,NCT of Delhi
+GA,Goa
+GJ,Gujarat
+HR,Haryana
+HP,Himachal Pradesh
+JH,Jharkhand
+JK,Jammu and Kashmir
+KA,Karnataka
+KL,Kerala
+MH,Maharashtra
+ML,Meghalaya
+MN,Manipur
+MP,Madhya Pradesh
+MZ,Mizoram
+NL,Nagaland
+OR,Odisha
+PB,Punjab
+PY,Puducherry
+RJ,Rajasthan
+SK,Sikkim
+TG,Telangana
+TN,Tamil Nadu
+TR,Tripura
+UP,Uttar Pradesh
+UT,Uttarakhand
+WB,West Bengal
